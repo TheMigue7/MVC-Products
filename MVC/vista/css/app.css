@@ -1,0 +1,15 @@
+.panel{
+    max-width: 800px;
+    padding: 20px;
+    margin: auto;
+    background: gainsboro;
+}
+.text-center{
+    text-align: center;
+    color: rgb(73, 1, 87);
+}
+table{ width: 100%;}
+table,tr,td{
+    border: 1px solid tan;
+}
+.btn{ background: rgb(73, 1, 87); color: white; padding: 10px 20px; display: inline-block; text-decoration: none;}
